@@ -1,4 +1,0 @@
-Hi this is sample file for testing git.
-
-
-
